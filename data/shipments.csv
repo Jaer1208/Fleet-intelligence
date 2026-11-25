@@ -1,0 +1,61 @@
+shipment_id,vehicle_id,driver_id,origin,destination,dispatch_date,due_date,delivery_date,status,planned_km,distance_km,fuel_liters,fuel_cost_usd,vehicle_type,target_l_per_100km,driver_name,delivery_outcome,lane
+SHP-001,VH-01,DR-01,Chicago,Detroit,2026-05-04,2026-05-05,2026-05-06,Delivered,455,461,58.14,59.22,Cargo van,12,Demo Driver 01,Late,Chicago → Detroit
+SHP-002,VH-02,DR-02,Dallas,Houston,2026-05-05,2026-05-06,2026-05-06,Delivered,385,419,91.38,109.64,Box truck,21,Demo Driver 02,On time,Dallas → Houston
+SHP-003,VH-03,DR-03,Atlanta,Charlotte,2026-05-06,2026-05-07,2026-05-06,Delivered,395,423,158.71,154.94,Tractor trailer,32,Demo Driver 03,On time,Atlanta → Charlotte
+SHP-004,VH-04,DR-04,Denver,Kansas City,2026-05-07,2026-05-09,2026-05-09,Delivered,970,1029,112.99,113.63,Cargo van,12,Demo Driver 04,On time,Denver → Kansas City
+SHP-005,VH-05,DR-05,Phoenix,San Diego,2026-05-08,2026-05-09,2026-05-10,Delivered,570,618,128.44,138.17,Box truck,21,Demo Driver 05,Late,Phoenix → San Diego
+SHP-006,VH-06,DR-06,Columbus,Indianapolis,2026-05-09,2026-05-10,2026-05-10,Delivered,280,307,89.52,105.24,Tractor trailer,32,Demo Driver 06,On time,Columbus → Indianapolis
+SHP-007,VH-07,DR-07,Dallas,Houston,2026-05-10,2026-05-11,2026-05-12,Delivered,385,405,46.79,47.27,Cargo van,12,Demo Driver 07,Late,Dallas → Houston
+SHP-008,VH-08,DR-08,Atlanta,Charlotte,2026-05-11,2026-05-12,2026-05-14,Delivered,395,411,80.06,78.23,Box truck,21,Demo Driver 08,Late,Atlanta → Charlotte
+SHP-009,VH-09,DR-09,Denver,Kansas City,2026-05-12,2026-05-14,2026-05-16,Delivered,970,1010,397.26,382.23,Tractor trailer,32,Demo Driver 09,Late,Denver → Kansas City
+SHP-010,VH-10,DR-10,Phoenix,San Diego,2026-05-13,2026-05-14,2026-05-14,Delivered,570,607,79.75,84.22,Cargo van,12,Demo Driver 10,On time,Phoenix → San Diego
+SHP-011,VH-11,DR-11,Columbus,Indianapolis,2026-05-14,2026-05-15,2026-05-15,Delivered,280,290,62.69,75.1,Box truck,21,Demo Driver 11,On time,Columbus → Indianapolis
+SHP-012,VH-12,DR-12,Chicago,Detroit,2026-05-15,2026-05-16,2026-05-16,Delivered,455,487,208.23,200.49,Tractor trailer,32,Demo Driver 12,On time,Chicago → Detroit
+SHP-013,VH-13,DR-13,Atlanta,Charlotte,2026-05-16,2026-05-17,2026-05-17,Delivered,395,432,56.88,67.66,Cargo van,12,Demo Driver 13,On time,Atlanta → Charlotte
+SHP-014,VH-14,DR-14,Denver,Kansas City,2026-05-17,2026-05-19,2026-05-21,Delivered,970,982,198.55,223.96,Box truck,21,Demo Driver 14,Late,Denver → Kansas City
+SHP-015,VH-15,DR-15,Phoenix,San Diego,2026-05-18,2026-05-19,2026-05-19,Delivered,570,581,181.74,206.76,Tractor trailer,32,Demo Driver 15,On time,Phoenix → San Diego
+SHP-016,VH-01,DR-02,Columbus,Indianapolis,2026-05-19,2026-05-20,2026-05-21,Delivered,280,311,38.56,43.21,Cargo van,12,Demo Driver 02,Late,Columbus → Indianapolis
+SHP-017,VH-02,DR-03,Chicago,Detroit,2026-05-20,2026-05-21,2026-05-21,Delivered,455,484,97.22,104.94,Box truck,21,Demo Driver 03,On time,Chicago → Detroit
+SHP-018,VH-03,DR-04,Dallas,Houston,2026-05-21,2026-05-22,2026-05-22,Delivered,385,431,182.12,201.41,Tractor trailer,32,Demo Driver 04,On time,Dallas → Houston
+SHP-019,VH-04,DR-05,Denver,Kansas City,2026-05-22,2026-05-24,2026-05-25,Delivered,970,1008,127.73,123.34,Cargo van,12,Demo Driver 05,Late,Denver → Kansas City
+SHP-020,VH-05,DR-06,Phoenix,San Diego,2026-05-23,2026-05-24,2026-05-26,Delivered,570,572,116.51,119.42,Box truck,21,Demo Driver 06,Late,Phoenix → San Diego
+SHP-021,VH-06,DR-07,Columbus,Indianapolis,2026-05-24,2026-05-25,2026-05-25,Delivered,280,311,101.29,116.59,Tractor trailer,32,Demo Driver 07,On time,Columbus → Indianapolis
+SHP-022,VH-07,DR-08,Chicago,Detroit,2026-05-25,2026-05-26,2026-05-26,Delivered,455,491,58.05,70.01,Cargo van,12,Demo Driver 08,On time,Chicago → Detroit
+SHP-023,VH-08,DR-09,Dallas,Houston,2026-05-26,2026-05-27,2026-05-27,Delivered,385,392,77.1,89.33,Box truck,21,Demo Driver 09,On time,Dallas → Houston
+SHP-024,VH-09,DR-10,Atlanta,Charlotte,2026-05-27,2026-05-28,2026-05-28,Delivered,395,407,170.22,204.5,Tractor trailer,32,Demo Driver 10,On time,Atlanta → Charlotte
+SHP-025,VH-10,DR-11,Phoenix,San Diego,2026-05-28,2026-05-29,2026-05-29,Delivered,570,595,78.5,77.62,Cargo van,12,Demo Driver 11,On time,Phoenix → San Diego
+SHP-026,VH-11,DR-12,Columbus,Indianapolis,2026-05-29,2026-05-30,2026-05-30,Delivered,280,283,54.61,53.56,Box truck,21,Demo Driver 12,On time,Columbus → Indianapolis
+SHP-027,VH-12,DR-13,Chicago,Detroit,2026-05-30,2026-05-31,2026-06-01,Delivered,455,464,197.52,220.63,Tractor trailer,32,Demo Driver 13,Late,Chicago → Detroit
+SHP-028,VH-13,DR-14,Dallas,Houston,2026-05-31,2026-06-01,2026-06-01,Delivered,385,403,53.16,58.38,Cargo van,12,Demo Driver 14,On time,Dallas → Houston
+SHP-029,VH-14,DR-15,Atlanta,Charlotte,2026-06-01,2026-06-02,2026-06-02,Delivered,395,436,83.52,96.2,Box truck,21,Demo Driver 15,On time,Atlanta → Charlotte
+SHP-030,VH-15,DR-01,Denver,Kansas City,2026-06-02,2026-06-04,2026-06-05,Delivered,970,1073,361.44,421.15,Tractor trailer,32,Demo Driver 01,Late,Denver → Kansas City
+SHP-031,VH-01,DR-03,Columbus,Indianapolis,2026-06-03,2026-06-04,2026-06-04,Delivered,280,284,33.83,36.44,Cargo van,12,Demo Driver 03,On time,Columbus → Indianapolis
+SHP-032,VH-02,DR-04,Chicago,Detroit,2026-06-04,2026-06-05,2026-06-06,Delivered,455,503,101.41,110.55,Box truck,21,Demo Driver 04,Late,Chicago → Detroit
+SHP-033,VH-03,DR-05,Dallas,Houston,2026-06-05,2026-06-06,2026-06-06,Delivered,385,408,155.46,174.91,Tractor trailer,32,Demo Driver 05,On time,Dallas → Houston
+SHP-034,VH-04,DR-06,Atlanta,Charlotte,2026-06-06,2026-06-07,2026-06-09,Delivered,395,425,52.31,51.93,Cargo van,12,Demo Driver 06,Late,Atlanta → Charlotte
+SHP-035,VH-05,DR-07,Denver,Kansas City,2026-06-07,2026-06-09,2026-06-11,Delivered,970,989,226.62,273.82,Box truck,21,Demo Driver 07,Late,Denver → Kansas City
+SHP-036,VH-06,DR-08,Phoenix,San Diego,2026-06-08,2026-06-09,2026-06-08,Delivered,570,611,196.07,192.41,Tractor trailer,32,Demo Driver 08,On time,Phoenix → San Diego
+SHP-037,VH-07,DR-09,Chicago,Detroit,2026-06-09,2026-06-10,2026-06-10,Delivered,455,503,64.47,66.8,Cargo van,12,Demo Driver 09,On time,Chicago → Detroit
+SHP-038,VH-08,DR-10,Dallas,Houston,2026-06-10,2026-06-11,2026-06-10,Delivered,385,396,84.64,82.27,Box truck,21,Demo Driver 10,On time,Dallas → Houston
+SHP-039,VH-09,DR-11,Atlanta,Charlotte,2026-06-11,2026-06-12,2026-06-13,Delivered,395,418,158.06,183.82,Tractor trailer,32,Demo Driver 11,Late,Atlanta → Charlotte
+SHP-040,VH-10,DR-12,Denver,Kansas City,2026-06-12,2026-06-14,2026-06-16,Delivered,970,985,122.38,148.71,Cargo van,12,Demo Driver 12,Late,Denver → Kansas City
+SHP-041,VH-11,DR-13,Phoenix,San Diego,2026-06-13,2026-06-14,2026-06-14,Delivered,570,588,132.84,141.94,Box truck,21,Demo Driver 13,On time,Phoenix → San Diego
+SHP-042,VH-12,DR-14,Columbus,Indianapolis,2026-06-14,2026-06-15,2026-06-15,Delivered,280,311,134.2,153.41,Tractor trailer,32,Demo Driver 14,On time,Columbus → Indianapolis
+SHP-043,VH-13,DR-15,Dallas,Houston,2026-06-15,2026-06-16,2026-06-17,Delivered,385,399,52.62,59.56,Cargo van,12,Demo Driver 15,Late,Dallas → Houston
+SHP-044,VH-14,DR-01,Atlanta,Charlotte,2026-06-16,2026-06-17,2026-06-17,Delivered,395,438,91.59,93.37,Box truck,21,Demo Driver 01,On time,Atlanta → Charlotte
+SHP-045,VH-15,DR-02,Denver,Kansas City,2026-06-17,2026-06-19,2026-06-18,Delivered,970,1009,329.91,334.67,Tractor trailer,32,Demo Driver 02,On time,Denver → Kansas City
+SHP-046,VH-01,DR-04,Phoenix,San Diego,2026-06-18,2026-06-19,2026-06-19,Delivered,570,570,71.44,69.05,Cargo van,12,Demo Driver 04,On time,Phoenix → San Diego
+SHP-047,VH-02,DR-05,Columbus,Indianapolis,2026-06-19,2026-06-20,2026-06-19,Delivered,280,310,69.87,67.76,Box truck,21,Demo Driver 05,On time,Columbus → Indianapolis
+SHP-048,VH-03,DR-06,Chicago,Detroit,2026-06-20,2026-06-21,2026-06-21,Delivered,455,470,192.94,212.42,Tractor trailer,32,Demo Driver 06,On time,Chicago → Detroit
+SHP-049,VH-04,DR-07,Atlanta,Charlotte,2026-06-21,2026-06-22,2026-06-23,Delivered,395,439,53.65,58.07,Cargo van,12,Demo Driver 07,Late,Atlanta → Charlotte
+SHP-050,VH-05,DR-08,Denver,Kansas City,2026-06-22,2026-06-24,,In transit,970,689,153.87,154.38,Box truck,21,Demo Driver 08,Overdue,Denver → Kansas City
+SHP-051,VH-06,DR-09,Phoenix,San Diego,2026-06-23,2026-06-24,,In transit,570,150,47.61,50.88,Tractor trailer,32,Demo Driver 09,Overdue,Phoenix → San Diego
+SHP-052,VH-07,DR-10,Columbus,Indianapolis,2026-06-24,2026-06-25,,In transit,280,141,17.74,20.2,Cargo van,12,Demo Driver 10,Overdue,Columbus → Indianapolis
+SHP-053,VH-08,DR-11,Chicago,Detroit,2026-06-25,2026-06-26,,In transit,455,382,74.5,79.17,Box truck,21,Demo Driver 11,Overdue,Chicago → Detroit
+SHP-054,VH-09,DR-12,Dallas,Houston,2026-06-26,2026-06-27,,In transit,385,162,71.25,72.65,Tractor trailer,32,Demo Driver 12,Overdue,Dallas → Houston
+SHP-055,VH-10,DR-13,Denver,Kansas City,2026-06-27,2026-06-29,,In transit,970,314,37.5,40.05,Cargo van,12,Demo Driver 13,Overdue,Denver → Kansas City
+SHP-056,VH-11,DR-14,Phoenix,San Diego,2026-06-28,2026-06-29,,In transit,570,217,43.63,52.73,Box truck,21,Demo Driver 14,Overdue,Phoenix → San Diego
+SHP-057,VH-12,DR-15,Columbus,Indianapolis,2026-06-29,2026-06-30,,In transit,280,137,60.25,66.52,Tractor trailer,32,Demo Driver 15,Pending,Columbus → Indianapolis
+SHP-058,VH-13,DR-01,Chicago,Detroit,2026-06-30,2026-07-01,,In transit,455,0,0.0,0.0,Cargo van,12,Demo Driver 01,Pending,Chicago → Detroit
+SHP-059,VH-14,DR-02,Dallas,Houston,2026-07-01,2026-07-02,,Scheduled,385,0,0.0,0.0,Box truck,21,Demo Driver 02,Pending,Dallas → Houston
+SHP-060,VH-15,DR-03,Atlanta,Charlotte,2026-07-02,2026-07-03,,Scheduled,395,0,0.0,0.0,Tractor trailer,32,Demo Driver 03,Pending,Atlanta → Charlotte
